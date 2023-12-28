@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Proyecto_7S21</string>
+    <string name="p1titulo">Opciones</string>
+    <string name="p1btndatos">Datos</string>
+    <string name="p1datosobtenidos">Datos Obtenidos</string>
+    <string name="p1txtnombre">Nombre</string>
+    <string name="p1txtedad">Edad</string>
+    <string name="p1txtcorreo">Correo</string>
+    <string name="p2lblnombre">Ingresa aqui el dato</string>
+    <string name="p2titulo">Ingrese Datos</string>
+    <string name="p2txtnombre">Nombre</string>
+    <string name="p2txtedad">Edad</string>
+    <string name="p2txtcorreo">Correo</string>
+    <string name="p2btnregresar">Regresar</string>
+    <string name="p2btncancelar">Cancelar</string>
+</resources>
